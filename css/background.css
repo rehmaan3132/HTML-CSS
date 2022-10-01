@@ -1,0 +1,18 @@
+.parent {
+    /* background-color: salmon; */
+    width: 200px;
+    height: 200px;
+    opacity: 1;
+    background-image: url(./OIP.jfif);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-clip: padding-box;
+}
+.dummy {
+    background-color: gold;
+    width: 600px;
+    height: 400px;
+}

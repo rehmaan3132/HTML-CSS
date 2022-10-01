@@ -1,0 +1,10 @@
+h1 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: right;
+}
+    p {
+        font-weight:bold ;
+    }
